@@ -63,7 +63,7 @@ If you find this project useful in your research, please consider citing:
 ## Acknowledgement
 -  [Segment Anything](https://github.com/facebookresearch/segment-anything)
 - [VoxelNeXt](https://github.com/dvlab-research/VoxelNeXt)
-- Code for 3D to 2D translation is from [UVTR](https://github.com/dvlab-research/UVTR).
+- [UVTR](https://github.com/dvlab-research/UVTR) for 3D to 2D translation.
 
 ## Our Works in LiDAR-based 3D Computer Vision
 - **VoxelNeXt (CVPR 2023)** [[Paper]](https://arxiv.org/abs/2303.11301) [[Code]](https://github.com/dvlab-research/VoxelNeXt) Fully Sparse VoxelNet for 3D Object Detection and Tracking.
@@ -74,7 +74,3 @@ If you find this project useful in your research, please consider citing:
 - [spconv-plus](https://github.com/dvlab-research/spconv-plus) A library where we combine our works into [spconv](https://github.com/traveller59/spconv).
 - [SparseTransformer](https://github.com/dvlab-research/SparseTransformer) A library that includes high-efficiency transformer implementations for sparse point cloud or voxel data.
 
-
-## License
-
-This project is released under the [Apache 2.0 license](LICENSE).
