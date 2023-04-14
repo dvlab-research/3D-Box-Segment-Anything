@@ -65,7 +65,7 @@ If you find this project useful in your research, please consider citing:
 - [VoxelNeXt](https://github.com/dvlab-research/VoxelNeXt)
 - [UVTR](https://github.com/dvlab-research/UVTR) for 3D to 2D translation.
 
-## Our Works in LiDAR-based 3D Computer Vision
+## Our Works in 3D Perception
 - **VoxelNeXt (CVPR 2023)** [[Paper]](https://arxiv.org/abs/2303.11301) [[Code]](https://github.com/dvlab-research/VoxelNeXt) Fully Sparse VoxelNet for 3D Object Detection and Tracking.
 - **Focal Sparse Conv (CVPR 2022 Oral)** [[Paper]](https://arxiv.org/abs/2204.12463) [[Code]](https://github.com/dvlab-research/FocalsConv) Dynamic sparse convolution for high performance.
 - **Spatial Pruned Conv (NeurIPS 2022)** [[Paper]](https://arxiv.org/abs/2209.14201) [[Code]](https://github.com/CVMI-Lab/SPS-Conv) 50% FLOPs saving for efficient 3D object detection.
