@@ -35,6 +35,7 @@ The point to image translation infos on nuScenes val can be download [here](http
 <p align="center"> <img src="images/mask_box.png" width="100%"> </p>
 <p align="center"> <img src="images/image_boxes1.png" width="100%"> </p>
 <p align="center"> <img src="images/image_boxes2.png" width="100%"> </p>
+<p align="center"> <img src="images/image_boxes3.png" width="100%"> </p>
 
 ## TODO List
 - - [ ] Zero-shot version VoxelNeXt.
