@@ -24,7 +24,7 @@ The core idea is that [VoxelNeXt](https://github.com/dvlab-research/VoxelNeXt) i
 3. spconv
 `pip install spconv
 `
-or cuda version spconv `pip install spconv-cu111` based on your cuda version. Please use spconv 2.2 / 2.3 version, for example spconv==2.3.2
+or cuda version spconv `pip install spconv-cu111` based on your cuda version. Please use spconv 2.2 / 2.3 version, for example spconv==2.3.5
 
 
 ## Getting Started
